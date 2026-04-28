@@ -1,0 +1,6 @@
+NAME          INSTALLED  FIXED IN  TYPE    VULNERABILITY        SEVERITY  EPSS          RISK   
+lxml          5.2.2      6.1.0     python  GHSA-vfmq-68hx-4jfw  High      < 0.1% (9th)  < 0.1  
+cryptography  46.0.5     46.0.7    python  GHSA-p423-j2cm-9vmq  Medium    < 0.1% (5th)  < 0.1  
+pytest        8.3.3      9.0.3     python  GHSA-6w46-j5rx-g56g  Medium    < 0.1% (0th)  < 0.1  
+cryptography  46.0.5     46.0.6    python  GHSA-m959-cc7f-wv43  Low       < 0.1% (0th)  < 0.1  
+requests      2.32.4     2.33.0    python  GHSA-gc5v-m9x4-r6x2  Medium    < 0.1% (0th)  < 0.1
